@@ -2,7 +2,8 @@ import React from 'react'
 
 function Annu() {
   return (
-    <div>Annu</div>
+    
+    <h1>anni</h1>
   )
 }
 
